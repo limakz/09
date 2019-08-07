@@ -1,0 +1,30 @@
+#red-span{
+    color: red;
+}
+#blue-span{
+    color: blue;
+}
+#green-span{
+    color: green;
+}
+#p1{
+    color: #8fe921
+}
+#p2{
+    color: rgb(199, 10, 10)
+}
+#p3{
+    color: hsl(270, 100%, 80%)
+}
+.container{
+    background-color: yellow;
+    width: 200px;
+}
+.first-paragraph{
+    background-color: blue;
+    width: 50%;
+}
+.second-paragraph{
+    background-color: blueviolet;
+    width: 10em;
+}
